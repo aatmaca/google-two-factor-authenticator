@@ -2,6 +2,7 @@
 Two-factor authentication.
 
 1. Signup endpoint.
+
 Payload: username, password
 
 2. Login endpoint
