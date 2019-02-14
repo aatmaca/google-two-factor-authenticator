@@ -1,5 +1,5 @@
-# googleTwoFactorAuthenticator
-Two-factor authentication. Google Authenticator.
+# Google Authenticator.
+Two-factor authentication.
 
 1. Signup endpoint.
 Payload: username, password
